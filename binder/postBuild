@@ -5,7 +5,7 @@
 ###############################################################
 
 # sos installation
-#python -m sos_notebook.install
+python -m sos_notebook.install
 jupyter labextension install jupyterlab-sos --no-build 
 
 # Beaker installation and extension
