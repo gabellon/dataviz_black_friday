@@ -45,7 +45,7 @@
 # jupyter labextension install @mflevine/jupyterlab_html --no-build 
 
 # Building everything up
-jupyter lab build --dev
+# jupyter lab build --dev
 
 ###############################################################
 #          /jupyter/jupyterlab extensions/kernels              #
